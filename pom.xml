@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.168.23:9980/mithuntechnologies/repository/devops-release/</url>
+	      <url>http://65.2.168.23:9980/mithuntechnologies/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 		    <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.168.23:9980/mithuntechnologies/repository/devops-snapshot/</url>    
+	      <url>http://65.2.168.23:9980/mithuntechnologies/repository/maven-snapshots/</url>    
 	    </snapshotRepository>
 	    
 	</distributionManagement>
